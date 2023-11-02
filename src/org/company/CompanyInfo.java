@@ -23,7 +23,7 @@ public class CompanyInfo {
 		c.companyName();
 		c.companyName(636903, 9789129143l);
 		c.companyName(55.5f,555.5 );
-			
+		System.out.println("hi")	
 	}
 		
 }
